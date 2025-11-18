@@ -1,0 +1,11 @@
+#+title: General
+#+author: Erik An
+#+email: obluda2173@gmail.com
+#+date: <2025-11-18>
+#+lastmod: <2025-11-18 21:12>
+#+options: num:t
+#+startup: overview
+
+* Explain to me what is aphasia.
+
+Aphasia is a condition that impairs the ability to communicate. It's most often caused by strokes affecting parts of the brain responsible for speech and language. Aphasia can affect your abilities to speak, write, and understand language, both verbal and written. The severity and scope of the problems depend on the extent of damage to the brain and which areas were damaged.

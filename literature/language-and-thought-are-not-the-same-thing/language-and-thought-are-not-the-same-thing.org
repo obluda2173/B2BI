@@ -1,0 +1,16 @@
+#+title: Language And Thought Are Not The Same Thing
+#+author: Erik An
+#+email: obluda2173@gmail.com
+#+date: <2025-11-18>
+#+lastmod: <2025-11-18 21:27>
+#+options: num:t
+#+startup: overview
+
+* Terminology
+- Aphasia :: is a condition that impairs the ability to communicate. It's often caused by strokes affecting parts of the brain responsible for speech and language. Aphasia can spread on the following abilities: speak, write, and understand the language, both verbal and written.
+- Impairs :: means to make something worse, weaker, or less effective by damaging it.
+- Vast :: extremely large in size, amount or degree.
+
+* Notes On Go
+** Abstract Part
+- "Is thought possible without language?", I believe yes. Intuitively I came to this conclusion while self observing the thought process, noticing that the brain comes to conclusion intuitively, without the need of phrasing the idea. Thus, my interest in BBI, along with general philosophical questions brought me to this scientific paper analysis.
